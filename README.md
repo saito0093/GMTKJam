@@ -1,8 +1,6 @@
 "# GMTKJam" \
 You 'wake up’ in a mysterious world where evil dice are blocking your way!
 
-Defeat the dice to recover your sanity!
-
 Each defeated die grants you a unique ability. Go find out!
 \
 \
